@@ -1,0 +1,39 @@
+<section class="services">
+
+<h2>Our Services</h2>
+
+<div class="grid">
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1581093458791-9d09f1c5b8f1?w=500" style="width:100%;border-radius:8px;">
+<h3>Electrical Works</h3>
+<p>House wiring, switch boards, lighting installation and electrical repairs.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=500" style="width:100%;border-radius:8px;">
+<h3>Plumbing Works</h3>
+<p>Pipe fitting, leakage repair, bathroom plumbing and water connections.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1621905251918-48416bd8575a?w=500" style="width:100%;border-radius:8px;">
+<h3>Old Washroom Renovation</h3>
+<p>Complete bathroom renovation including tiles, plumbing and electrical upgrades.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1598300056393-4aac492f4344?w=500" style="width:100%;border-radius:8px;">
+<h3>Waterproofing Works</h3>
+<p>Terrace waterproofing, bathroom waterproofing and leakage solutions.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=500" style="width:100%;border-radius:8px;">
+<h3>House Renovation</h3>
+<p>Full house renovation including electrical and plumbing works.</p>
+</div>
+
+</div>
+
+</section>
